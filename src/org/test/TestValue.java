@@ -13,5 +13,7 @@ public static void main(String[] args) {
        
         System.out.println("failed");
 	}
+	System.err.println("java1");
+	System.err.println("diva1");
 }
 }
