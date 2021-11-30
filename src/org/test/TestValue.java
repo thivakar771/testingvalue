@@ -18,6 +18,8 @@ public static void main(String[] args) {
 	System.out.println("diva");
 	System.err.println("java1");
 	System.err.println("diva1");
+	System.err.println("muthu");
+	System.out.println("ganesh");
 
 }
 
